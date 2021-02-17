@@ -10,7 +10,7 @@ class Station(object):
 
 L = int(input())
 n = int(input())
-p = int(input())
+p = int(input())*2
 k = input()
 try:
     u = [int(i) for i in k.split(',')]
