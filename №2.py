@@ -4,7 +4,7 @@ from GlobalFunctions import check, check_all
 
 L = int(input())
 n = int(input())
-p = int(input())
+p = int(input())*2
 u = int(input())
 a1 = float(input())
 a, b = [], []
