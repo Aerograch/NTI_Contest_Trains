@@ -4,7 +4,7 @@ from GlobalFunctions import check_linear
 
 L = int(input())
 n = int(input())
-p = int(input())
+p = int(input())*2
 u = [int(c) for c in input().split()]
 a, b = [], []
 for i in range(p):
