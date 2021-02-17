@@ -7,7 +7,7 @@ plt.gca().xaxis.set_major_formatter(myFmt)
 
 L = int(input())
 n = int(input())
-p = int(input())
+p = int(input())*2
 t = int(input())
 u = [int(i) for i in input().split()]
 a, b = [], []
